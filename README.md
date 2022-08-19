@@ -7,3 +7,7 @@
 # futuri sviluppi
 - pdf vector art
 - colors!!
+
+
+# Copyright
+2017, Shanshan Wang, MIT license
