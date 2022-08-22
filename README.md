@@ -2,12 +2,17 @@
 
 ![](./fontpreview.png)
 
-![](./test.png)
+![](./results V2.png)
   
-# futuri sviluppi
-- pdf vector art
+# changelog
+v2
+- added svg vector export
+- fixed spaces in fonts
 - colors!!
 
+v1
 
-# Copyright
-2017, Shanshan Wang, MIT license
+![](./test.png)
+
+
+basecode by 2017, Shanshan Wang, MIT license
