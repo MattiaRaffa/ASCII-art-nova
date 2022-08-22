@@ -16,3 +16,4 @@ v1
 
 
 basecode by 2017, Shanshan Wang, MIT license
+nòva font idea by FF3300 & SOS ScuolaOpenSource
