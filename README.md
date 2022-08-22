@@ -2,7 +2,7 @@
 
 ![](./fontpreview.png)
 
-![](./results V2.png)
+![](./resultsV2.png)
   
 # changelog
 v2
